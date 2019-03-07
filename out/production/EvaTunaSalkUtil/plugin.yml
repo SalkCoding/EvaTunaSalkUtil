@@ -1,0 +1,9 @@
+name: EvaTunaSalkUtil
+main: net.evatunasalkutil.salkcoding.main.Main
+description: Util for Salk_Coding
+version: 1.0.2
+api-version: 1.13
+commands:
+  sc:
+    usage: /sc [info/warn/error/mob] context
+    description: Special broadcast command
